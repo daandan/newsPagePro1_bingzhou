@@ -1,0 +1,1 @@
+document.write('<div class="cell_2_"><a href="http://sso.bzcm.net/?reffer=" class="m2o-js-reffer login">登录</a><a href="http://sso.bzcm.net/index.php/Register/zc?reffer=" class="m2o-js-reffer register">注册</a></div>')

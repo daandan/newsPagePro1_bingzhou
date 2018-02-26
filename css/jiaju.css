@@ -1,0 +1,148 @@
+.jiaju{
+	height: 1380px;
+}
+.nav8 li { 
+	background:url(images/dot1.gif) 0 10px no-repeat;text-indent:10px; width:255px;}
+.serleftpart {
+	position: relative;
+	width:790px;
+	height:auto; 
+	margin-top:30px;
+}
+
+.sercontent {
+	width:380px;
+	height:auto;
+}
+.sercontent .contentlogo{
+			width:380px;
+			height: 45px;
+}
+.nav13 li{
+	width:380px;
+}
+.ellipsis li{
+	word-wrap:normal;
+	overflow:hidden; 
+	white-space:nowrap; 
+	word-break:break-all;
+	text-overflow:ellipsis; /* for IE */ 
+	-o-text-overflow: ellipsis; /* for Opera */ 
+	-icab-text-overflow: ellipsis; /* for iCab */ 
+	-khtml-text-overflow: ellipsis; /* for Konqueror Safari */ 
+	-moz-text-overflow: ellipsis; /* for Firefox,mozilla */ 
+	-webkit-text-overflow: ellipsis; /* for Safari,Swift*/
+	}
+.nav13 li a{
+ color: #333;
+}
+.nav8 li a{
+ color: #333;
+}
+.contentlogotitle {
+	height: 32px;
+	border-bottom: #4aaed9 solid 2px;
+	letter-spacing: 4px;
+	text-align: center;
+	line-height: 2.0;
+	font-weight: bold;
+}
+.contentlogotitle a{
+	color: #333;
+}
+.sercontenttop { 
+	border-bottom:#999 dashed 1px; 
+	height:125px;
+	width:380px;
+	margin-top:10px;
+}
+.sercontenttopleft {
+	width:110px;
+	height:110px; 
+	background-color:#999;
+}
+.sercontenttopright {
+	width:255px;
+}
+.sercontentbottom {
+	width:380px;
+	margin-top:10px;
+}
+.serright {
+	width:198px;
+	background-color:#f3f3f3; 
+	border:#c6c6c6 1px solid;
+	margin-top:10px;
+}
+.serlogo {
+	width:194px;
+	height:auto;
+	margin-left:2px; 
+	display:inline;}
+.serlogotitle {
+	width:80px;
+	height:41px !important; 
+	border-bottom:#4aaed9 solid 2px;  
+	text-align:center; 
+	line-height:3.1 !important; 
+	font-weight:bold; 
+	text-indent:4px; 
+	overflow:hidden;
+}
+.serlogomore {
+	width:112px;
+	height:41px !important; 
+	border-bottom:#000000 solid 2px; 
+	line-height:4.2 !important; 
+	text-align:right;
+	overflow:hidden;
+}
+
+.leftpart , .elseleftpart {
+	width:330px;
+}
+.contentlogo {
+	height:45px;}
+
+.contentlogotitle {
+	height:32px;
+	border-bottom:#4aaed9 solid 2px; 
+	letter-spacing:4px; 
+	text-align:center; 
+	line-height:2.0; 
+	font-weight:bold;
+
+}
+.contentlogomore {
+	height:32px; 
+	border-bottom:#000000 solid 2px; 
+	line-height:2.6; 
+	text-align:right;
+	color: #333;
+}
+.contentlogomore a:link{
+	color:#333; 
+}
+.contentlogomore a:hover{
+	color: #333;
+}
+.contentlogomore a:visited{
+	color: #333;
+}
+.serpic {
+	width:150px;
+	min-height:110px; 
+	margin:21px 0 10px 22px; 
+	display:inline;
+}
+.serspelist {
+	margin:0px;
+	padding:0px;
+	 line-height:1.8;
+	 width:194px;
+	 margin-left:2px;
+}
+.serleftpart:first-child{
+	margin-top: 0px!important;
+
+}
